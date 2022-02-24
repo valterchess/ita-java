@@ -1,4 +1,4 @@
-package br.ita.comercio;
+package br.ita.classes.comercio;
 
 public class Compra {
     int valorTotal;

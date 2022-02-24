@@ -1,4 +1,4 @@
-package br.ita.comercio;
+package br.ita.classes.comercio;
 import static org.junit.Assert.*;
 import org.junit.Test;
 
