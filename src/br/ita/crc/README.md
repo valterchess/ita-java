@@ -33,3 +33,26 @@ Ou seja, questionar quais comportamentos e/ou características podem ser abstra�
         |Comportamento -> (métodos)  |
         |                
         
+
+## Lógica das responsabilidades:
+
+Ao observarmos uma responsabilidade como método.
+É importante saber quais ações aquela responsabilidade realiza,
+ou seja, definir o algoritmo (sequência lógica finita) 
+que está por trás desse futuro método.
+E é possível fazer isso é analisar quais ações precisam ser feitas.
+
+#### Por exemplo:
+
+Responsabilidade:
+    
+    "Sabe o número da conta?"
+
+        |Objeto conta tem 
+        |atributo número da
+        |conta
+        |
+        |Objeto devolve o 
+        |valor do número da
+        |conta
+
