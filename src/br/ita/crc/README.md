@@ -55,3 +55,11 @@ Responsabilidade:
         |Objeto devolve o 
         |valor do número da
         |conta
+
+---
+    Classe:
+    ____________________________________________________
+    | Responsabilidade | Colaboração                   |
+    | Registra uma     | Colaboradora: Conta Corrente  |
+    | conta nova       | Colaboração: Construtor       |
+    ____________________________________________________
