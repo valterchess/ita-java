@@ -10,7 +10,7 @@ public class Paciente {
     }
 
     public double calculaImc(){
-        return (getPeso() * 10000) / (getAltura() * getAltura());
+        return (getPeso() / (getAltura() * getAltura());
     }
 
     public void diagnostico(){
