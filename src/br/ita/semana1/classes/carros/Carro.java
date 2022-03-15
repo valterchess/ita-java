@@ -1,9 +1,9 @@
-package br.ita.classes.carros;
+package br.ita.semana1.classes.carros;
 
 public class Carro {
-    int potencia;
-    int velocidade;
-    String nome;
+    public int potencia;
+    public int velocidade;
+    public String nome;
     //Adicionando construtores
     public Carro() {
     }

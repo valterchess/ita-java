@@ -1,5 +1,5 @@
-package br.ita.classes.carros;
-
+package br.ita.semana1.classes.carros.Main;
+import br.ita.semana1.classes.carros.Carro;
 public class Principal {
     public static void main(String[] args) {
         Carro carro1 = new Carro();
