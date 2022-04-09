@@ -1,4 +1,4 @@
-package br.ita.semana2.funcoesparametodos.Escola;
+package br.ita.semana2.lesson1.funcoesparametodos.Escola;
 
 public class Principal {
     public static void main(String[] args) {

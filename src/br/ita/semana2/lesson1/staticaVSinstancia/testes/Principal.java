@@ -1,6 +1,6 @@
-package br.ita.semana2.staticaVSinstancia.testes;
+package br.ita.semana2.lesson1.staticaVSinstancia.testes;
 
-import br.ita.semana2.staticaVSinstancia.classes.Somador;
+import br.ita.semana2.lesson1.staticaVSinstancia.classes.Somador;
 
 public class Principal {
     public static void main(String[] args) {

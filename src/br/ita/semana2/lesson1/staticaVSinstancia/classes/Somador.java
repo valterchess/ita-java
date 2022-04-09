@@ -1,4 +1,4 @@
-package br.ita.semana2.staticaVSinstancia.classes;
+package br.ita.semana2.lesson1.staticaVSinstancia.classes;
 
 public class Somador {
     public String nome;

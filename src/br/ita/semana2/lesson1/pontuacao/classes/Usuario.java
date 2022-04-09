@@ -1,4 +1,4 @@
-package br.ita.semana2.pontuacao.classes;
+package br.ita.semana2.lesson1.pontuacao.classes;
 
 public class Usuario {
     private String nome;

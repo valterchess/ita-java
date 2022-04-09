@@ -1,7 +1,7 @@
-package br.ita.semana2.pontuacao.test;
-import br.ita.semana2.pontuacao.classes.CalculadoraBonus;
-import br.ita.semana2.pontuacao.classes.RegistroPontos;
-import br.ita.semana2.pontuacao.classes.Usuario;
+package br.ita.semana2.lesson1.pontuacao.test;
+import br.ita.semana2.lesson1.pontuacao.classes.CalculadoraBonus;
+import br.ita.semana2.lesson1.pontuacao.classes.RegistroPontos;
+import br.ita.semana2.lesson1.pontuacao.classes.Usuario;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
