@@ -1,5 +1,5 @@
-package br.ita.pizzaria;
-import static br.ita.pizzaria.Pizza.qtdIngredientesUsados;
+package main.br.ita.pizzaria;
+import static main.br.ita.pizzaria.Pizza.qtdIngredientesUsados;
 
 public class Principal {
     public static void main(String[] args) {

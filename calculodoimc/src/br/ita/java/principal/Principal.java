@@ -1,6 +1,6 @@
-package br.ita.java.principal;
+package main.br.ita.java.principal;
 
-import br.ita.java.modelos.Paciente;
+import main.br.ita.java.modelos.Paciente;
 
 public class Principal {
     public static void main(String[] args) {

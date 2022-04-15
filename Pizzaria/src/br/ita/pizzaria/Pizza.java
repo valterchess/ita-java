@@ -1,4 +1,4 @@
-package br.ita.pizzaria;
+package main.br.ita.pizzaria;
 
 import java.util.ArrayList;
 import java.util.HashMap;

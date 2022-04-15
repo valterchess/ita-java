@@ -1,4 +1,4 @@
-package br.ita.java.modelos;
+package main.br.ita.java.modelos;
 
 public class Paciente {
     private double peso;
